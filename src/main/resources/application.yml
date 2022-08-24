@@ -1,0 +1,10 @@
+app:
+  bot:
+    messageBot:
+      username: job_message_bot
+      token: 5546630602:AAFGEREOQqeg9cmWxOnaa8P5d5SZXD80ibw
+  mysql:
+    user: root
+    pass: root
+    url: localhost:33061/bot_message
+
